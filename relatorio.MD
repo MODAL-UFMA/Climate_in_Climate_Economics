@@ -1,0 +1,2 @@
+Essa é a branch "original". Os requisitos mínimos para executar o código está em requirements_new.txt
+O ideal é que seja executado em um ambiente com python 3.8, para evitar que o código obsoleto dê erros.
