@@ -1,5 +1,5 @@
 # Relatório inicial
-Essa é a branch original. 
+Essa é a branch original, com o código repassado pelos autores do ["artigo"](artigo.pdf) 
 
 ## Entendendo a estrutura geral dos programas
 Este repositório contém três pastas distintas:
