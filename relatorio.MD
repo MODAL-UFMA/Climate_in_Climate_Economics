@@ -68,8 +68,8 @@ sudo apt install -y build-essential libssl-dev zlib1g-dev \
     libffi-dev liblzma-dev python-openssl git
 
 curl https://pyenv.run | bash
-
 ```
+
 Após isso, deve-se acessar o .bashrc no terminal, com `sudo nano ~/.bashrc`. No final do arquivo, coloque:
 ```bash
 # pyenv
@@ -98,7 +98,7 @@ source venv/bin/activate
 pip install -r "requirements.txt"
 ```
 
-Com isso, já podemos executar códigos do ["DEQN_for_IAMs"](/DEQN_for_IAMs/), ["calibration_data"](/calibration_data/), e a maioria dos códigos de ["figures_replication"](/figures_replication/)
+Com isso, já podemos executar códigos dos diretórios ["DEQN_for_IAMs"](/DEQN_for_IAMs/), ["calibration_data"](/calibration_data/), e a maioria dos códigos de ["figures_replication"](/figures_replication/)
 #### Julia 
 Para os códigos em Julia, abra um terminal, e execute o comando:
 
@@ -107,5 +107,5 @@ curl -fsSL https://install.julialang.org | sh
 ```
 
 ## Execução dos Códigos
-
-Para a execução dos códigos, há um README.md em cada pasta explicando.
+### Replicação das Seções Apresentadas no ["Artigo"](artigo.pdf)
+Para a replicação das seções, há uma ["README.md - Seção de Replicação do Artigo"](README.md##Replication) que explica como executar o código de acordo com o artigo. 
