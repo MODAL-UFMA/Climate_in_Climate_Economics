@@ -1,4 +1,0 @@
-tensorflow==2.2
-numpy==1.18.*
-hydra-core==1.1.*
-protobuf==3.11.*
