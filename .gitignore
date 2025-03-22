@@ -5,3 +5,7 @@ __pycache__/
 DEQN_for_IAMs/runs
 runs
 .python-version
+.DS_Store
+venv/
+*/bin/
+devn/
